@@ -1,0 +1,14 @@
+{
+  "http": {
+    "routePrefix": ""
+  },
+  "applicationInsights": {
+    "sampling": {
+      "isEnabled": false
+    }
+  },
+  "id": "c247c7b603d74c07877e262f41cd6c81",
+  "durableTask": {
+    "HubName": "TestDurableHub"
+  }
+}
